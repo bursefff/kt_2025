@@ -1,6 +1,0 @@
-set(__QT_DEPLOY_TARGET_cubic2d_FILE /Users/Program/Desktop/proga4/02/cubic2d)
-set(__QT_DEPLOY_TARGET_cubic2d_TYPE EXECUTABLE)
-set(__QT_DEPLOY_TARGET_cubic3d_FILE /Users/Program/Desktop/proga4/02/cubic3d)
-set(__QT_DEPLOY_TARGET_cubic3d_TYPE EXECUTABLE)
-set(__QT_DEPLOY_TARGET_tetr3d_FILE /Users/Program/Desktop/proga4/02/tetr3d)
-set(__QT_DEPLOY_TARGET_tetr3d_TYPE EXECUTABLE)
