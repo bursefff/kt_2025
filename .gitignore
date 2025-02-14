@@ -1,0 +1,8 @@
+.o
+.stl
+.msh
+.vts
+.vtu
+.cmake
+Makefile
+CMake*
